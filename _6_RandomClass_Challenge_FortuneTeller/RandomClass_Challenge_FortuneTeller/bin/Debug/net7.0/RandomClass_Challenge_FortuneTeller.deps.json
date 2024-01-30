@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RandomClass_Challenge_FortuneTeller/1.0.0": {
+        "runtime": {
+          "RandomClass_Challenge_FortuneTeller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomClass_Challenge_FortuneTeller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

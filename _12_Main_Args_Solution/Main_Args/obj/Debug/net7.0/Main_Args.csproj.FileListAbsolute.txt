@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\bin\Debug\net7.0\Main_Args.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\bin\Debug\net7.0\Main_Args.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\bin\Debug\net7.0\Main_Args.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\bin\Debug\net7.0\Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\bin\Debug\net7.0\Main_Args.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\refint\Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\Main_Args.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Main_Args_Solution\Main_Args\obj\Debug\net7.0\ref\Main_Args.dll

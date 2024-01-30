@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\bin\Debug\net7.0\Console_App_With_Main_Args.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\bin\Debug\net7.0\Console_App_With_Main_Args.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\bin\Debug\net7.0\Console_App_With_Main_Args.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\bin\Debug\net7.0\Console_App_With_Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\bin\Debug\net7.0\Console_App_With_Main_Args.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\refint\Console_App_With_Main_Args.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\Console_App_With_Main_Args.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Console_App_With_Main_Args_ Solution\Console_App_With_Main_Args\obj\Debug\net7.0\ref\Console_App_With_Main_Args.dll

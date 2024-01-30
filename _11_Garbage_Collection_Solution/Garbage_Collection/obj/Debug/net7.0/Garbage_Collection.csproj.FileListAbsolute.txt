@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\bin\Debug\net7.0\Garbage_Collection.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\bin\Debug\net7.0\Garbage_Collection.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\bin\Debug\net7.0\Garbage_Collection.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\bin\Debug\net7.0\Garbage_Collection.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\bin\Debug\net7.0\Garbage_Collection.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\refint\Garbage_Collection.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\Garbage_Collection.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Garbage_Collection_Solution\Garbage_Collection\obj\Debug\net7.0\ref\Garbage_Collection.dll

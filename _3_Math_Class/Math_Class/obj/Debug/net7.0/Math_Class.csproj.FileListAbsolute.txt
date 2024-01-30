@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\bin\Debug\net7.0\Math_Class.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\bin\Debug\net7.0\Math_Class.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\bin\Debug\net7.0\Math_Class.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\bin\Debug\net7.0\Math_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\bin\Debug\net7.0\Math_Class.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\refint\Math_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\Math_Class.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class\Math_Class\obj\Debug\net7.0\ref\Math_Class.dll

@@ -1,0 +1,34 @@
+﻿Name: John Doe
+Age: 25
+Email: john.doe@example.com
+Phone: (555) 123-4567
+
+Name: Jane Smith
+Age: 30
+Email: jane.smith@email.com
+Phone: 123-456-7890
+
+Name: Bob Johnson
+Age: 40
+Email: bob.johnson@example.org
+Phone: 9876543210
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada justo vel dui aliquet, at cursus orci hendrerit. Vestibulum at sapien vel justo sagittis posuere.
+
+URL: https://www.example.com
+Date: 2024-01-13
+
+Some special characters: !@#$%^&*()_-+=<>?
+
+This is a multiline
+text example
+for regex practice.
+
+123 Main Street
+City: Anytown
+State: CA
+Zip Code: 12345
+
+---
+
+End of file.

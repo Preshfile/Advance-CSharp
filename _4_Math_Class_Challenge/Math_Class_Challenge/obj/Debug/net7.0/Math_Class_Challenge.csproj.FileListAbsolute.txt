@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\bin\Debug\net7.0\Math_Class_Challenge.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\bin\Debug\net7.0\Math_Class_Challenge.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\bin\Debug\net7.0\Math_Class_Challenge.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\bin\Debug\net7.0\Math_Class_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\bin\Debug\net7.0\Math_Class_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\refint\Math_Class_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\Math_Class_Challenge.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Math_Class_Challenge\Math_Class_Challenge\obj\Debug\net7.0\ref\Math_Class_Challenge.dll

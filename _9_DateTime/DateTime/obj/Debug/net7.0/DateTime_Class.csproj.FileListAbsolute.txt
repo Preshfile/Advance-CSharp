@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime_Class.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime_Class.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime_Class.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime_Class.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\refint\DateTime_Class.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime_Class.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\DateTime\DateTime\obj\Debug\net7.0\ref\DateTime_Class.dll

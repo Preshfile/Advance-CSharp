@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\bin\Debug\net7.0\Structs.exe
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\bin\Debug\net7.0\Structs.deps.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\bin\Debug\net7.0\Structs.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\bin\Debug\net7.0\Structs.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\bin\Debug\net7.0\Structs.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\refint\Structs.dll
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.pdb
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\Structs.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Advance CSharp\Structs\Structs\obj\Debug\net7.0\ref\Structs.dll
